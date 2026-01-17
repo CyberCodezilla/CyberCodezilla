@@ -63,13 +63,20 @@
   </a>
 </p>
 
+### 📊 Skill Distribution (Learning-Oriented)
+
 ![Skill Pie Chart](https://quickchart.io/chart?c={
   type:'pie',
   data:{
-    labels:['Python','Java','Web','Databases'],
+    labels:['Programming','Web Development','Backend & DB','Tools & Git'],
     datasets:[{
-      data:[35,25,25,15]
+      data:[40,30,20,10]
     }]
+  },
+  options:{
+    plugins:{
+      legend:{position:'bottom'}
+    }
   }
 })
 
