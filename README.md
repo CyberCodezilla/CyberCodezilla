@@ -63,9 +63,15 @@
   </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light" />
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_rank=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+![Skill Pie Chart](https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['Python','Java','Web','Databases'],
+    datasets:[{
+      data:[35,25,25,15]
+    }]
+  }
+})
 
 
 
