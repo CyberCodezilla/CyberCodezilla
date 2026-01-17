@@ -63,9 +63,9 @@
   </a>
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c&show_icons=true&locale=en&layout=compact" alt="c" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c&show_icons=true&locale=en" alt="c" /></p>
 
 
