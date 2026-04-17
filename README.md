@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c" alt="c" /></a> </p>
 
-- 🔭 I’m currently working on SIH project [Rake-Transportation System](https://rake-2-0-sih.vercel.app/)
+- 🔭 SIH project prototype [Rake-Transportation System](https://rake-2-0-sih.vercel.app/)
+- 👨🏻‍💻 I’m currently working on Vidyavardhini's College of engineering and technology college's Website : [vcet website live on:](vcet.edu.in)
 
 - 🌱 I’m currently learning **Frame-works**
 
