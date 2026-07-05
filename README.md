@@ -3,12 +3,9 @@
 
 ---
 
-## Profile Overview
-
-*   **SIH Project Prototype**
-    <br> 📊 [Rake-Transportation System](https://rake-2-0-sih.vercel.app/)
-*   **Active Engineering Initiative**
-    <br> 💻 [VCET Official College Website](https://vcet.edu.in)
+> ### Profile Highlights
+> * **SIH Project Prototype:** [Rake-Transportation System](https://rake-2-0-sih.vercel.app/)
+> * **Active Engineering Initiative:** [VCET Official College Website](https://vcet.edu.in)
 *   **Core Focus**
     <br> ⚡ Deep dive engineering within modern production frameworks and architecture optimization.
 *   **Primary Domains**
@@ -40,24 +37,23 @@
 
 ### Core Architecture
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java" alt="Core Architecture" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java&theme=dark" alt="Core Architecture" />
 </p>
 
 ### Frontend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend Frameworks" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb&theme=dark" alt="Backend & Databases" />
 </p>
 
 ### Infrastructure & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,vercel" alt="Infrastructure & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" alt="Infrastructure & Tools" />
 </p>
-
 ---
 
 ---
@@ -65,7 +61,7 @@
 ## GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CyberCodezilla&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="190" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CyberCodezilla&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="190" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberCodezilla&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
 </p>
