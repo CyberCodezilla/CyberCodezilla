@@ -1,14 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,ff00aa,00d2ff,7a00ff&height=220&section=header&text=Hi,%20I'm%20Sahil%20S.%20Rane&fontSize=45&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <b>A passionate Frontend Developer from Mumbai, India</b>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberCodezilla&theme=dracula&column=7" alt="Github Trophies" />
-</p>
+<h1 align="center">Hi, I'm Sahil S. Rane</h1>
+<p align="center"><b>A passionate Frontend Developer from Mumbai, India</b></p>
 
 ---
 
@@ -57,7 +48,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-### Frontend frameworks
+### Frontend Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -84,11 +75,7 @@
 ## GitHub Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberCodezilla&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CyberCodezilla&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCodezilla&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,ff00aa,00d2ff,7a00ff&height=80&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberCodezilla&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
 </p>
