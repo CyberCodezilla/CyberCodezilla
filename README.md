@@ -31,7 +31,7 @@ _______________________________________________________________________________
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
   </a>
 </p>
----
+
 
 ## Tech Stack & Toolkit
 
@@ -54,9 +54,8 @@ _______________________________________________________________________________
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" alt="Infrastructure & Tools" />
 </p>
----
 
----
+______________________________________________________________________________
 
 ## GitHub Performance Metrics
 
