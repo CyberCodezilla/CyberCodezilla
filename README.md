@@ -18,21 +18,22 @@
 
 ## Connect With Me
 
+## Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sahil-rane-6a539132b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://www.instagram.com/itz_.sahil_13?igsh=MWRqYmRwazlodXRlNw==" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://sahil-rane-portfolio.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" alt="Portfolio" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40" style="margin-right: 10px;" />
   </a>
   <a href="mailto:sahil.s.rane13012007@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" width="40" height="40" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
   </a>
 </p>
-
 ---
 
 ## Tech Stack & Toolkit
