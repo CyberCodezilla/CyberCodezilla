@@ -5,7 +5,7 @@
 
 > ### Profile Highlights
 > * **SIH Project Prototype:** [Rake-Transportation System](https://rake-2-0-sih.vercel.app/)
-> * **Active Engineering Initiative:** [VCET Official College Website](https://vcet.edu.in)
+> * **Active Engineering Initiative:** [VCET Official College Website](https://old.vcet.edu.in)
 *   **Core Focus**
     <br> ⚡ Deep dive engineering within modern production frameworks and architecture optimization.
 *   **Primary Domains**
