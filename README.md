@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sahil S. Rane</h1>
 <p align="center"><b>A passionate Engineer / Developer from Mumbai, India</b></p>
 
----
+_____________________________________________________________________________
 
 > ### Profile Highlights
 > * **SIH Project Prototype:** [Rake-Transportation System](https://rake-2-0-sih.vercel.app/)
@@ -14,7 +14,7 @@
 *   **Development Routine**
     <br> 🌙 High-efficiency late-night programming and system design.
 
----
+_______________________________________________________________________________
 ## Connect With Me
 
 <p align="left">
