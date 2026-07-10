@@ -14,9 +14,7 @@
 *   **Development Routine**
     <br> 🌙 High-efficiency late-night programming and system design.
 
-
-## Connect With Me
-
+---
 ## Connect With Me
 
 <p align="left">
