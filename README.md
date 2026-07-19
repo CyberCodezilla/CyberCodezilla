@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sahil S. Rane</h1>
 <p align="center"><b>A passionate Engineer / Developer from Mumbai, India</b></p>
-
 _____________________________________________________________________________
 
 > ### Profile Highlights
@@ -13,7 +12,6 @@ _____________________________________________________________________________
     <br> 🛠️ React, Tailwind CSS, and Next.js ecosystem integration.
 *   **Development Routine**
     <br> 🌙 High-efficiency late-night programming and system design.
-
 _______________________________________________________________________________
 ## Connect With Me
 
@@ -54,7 +52,6 @@ _______________________________________________________________________________
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" alt="Infrastructure & Tools" />
 </p>
-
 ______________________________________________________________________________
 
 ## GitHub Performance Metrics
