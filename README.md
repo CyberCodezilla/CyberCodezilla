@@ -35,7 +35,7 @@ _______________________________________________________________________________
 
 ### Core Architecture
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java&theme=dark" alt="Core Architecture" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,java&theme=dark" alt="Core Architecture" />
 </p>
 
 ### Frontend Frameworks
