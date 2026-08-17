@@ -57,9 +57,11 @@ _______________________________________________________________________________
 
 <div align="center">
 
+<div align="center">
+
 ## Live System Analytics & Deep Metrics
 
-<!-- Tab 1: Productive Coding Habits & Time Analysis -->
+<!-- Tab 1: Productivity & Hourly Distribution -->
 <details open>
   <summary><b>Productivity & Hourly Distribution</b></summary>
   <br/>
@@ -67,27 +69,20 @@ _______________________________________________________________________________
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberCodezilla&theme=tokyonight" width="48%" />
 </details>
 
-<!-- Tab 2: Language Distribution Radar / Donut -->
+<!-- Tab 2: Language Dominance & Ecosystem Breakdown -->
 <details>
   <summary><b>Language Dominance & Ecosystem Breakdown</b></summary>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyberCodezilla&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCodezilla&theme=tokyonight&layout=donut&hide_border=true" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberCodezilla&theme=tokyonight" width="48%" />
 </details>
 
-<!-- Tab 3: Open Source & Code Velocity Stats -->
+<!-- Tab 3: Velocity & Repository Stats -->
 <details>
   <summary><b>Velocity & Repository Stats</b></summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberCodezilla&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberCodezilla&theme=tokyonight&show_icons=true&hide_border=true&hide=contribs" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberCodezilla&theme=tokyonight" width="48%" />
-</details>
-
-<!-- Tab 4: Global Tier & Rank Trophies -->
-<details>
-  <summary><b>Global Benchmark & Rank Trophies</b></summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberCodezilla&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10&row=1&column=7" width="100%" />
 </details>
 
 </div>
