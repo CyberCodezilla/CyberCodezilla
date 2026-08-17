@@ -58,6 +58,6 @@ _______________________________________________________________________________
 ## GitHub Performance Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberCodezilla&theme=tokyonight" alt="Profile Details" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberCodezilla&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 </p>
