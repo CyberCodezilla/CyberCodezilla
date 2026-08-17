@@ -57,8 +57,7 @@ _______________________________________________________________________________
 
 ## GitHub Performance Metrics
 
-<p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CyberCodezilla&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="190" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberCodezilla&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberCodezilla&theme=tokyonight" alt="Profile Details" width="100%" />
+</div>
 </p>
