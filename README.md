@@ -71,84 +71,72 @@ _______________________________________________________________________________
 
 <br/>
 
-<table align="center" width="100%">
-
-<tr><td>
-
 <details open>
 <summary>⚡&nbsp;&nbsp;<b>Productivity & Hourly Distribution</b></summary>
 <br/>
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberCodezilla&theme=tokyonight&utcOffset=5.5"/></td>
-<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberCodezilla&theme=tokyonight"/></td>
-</tr>
-</table>
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberCodezilla&theme=tokyonight&utcOffset=5.5"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberCodezilla&theme=tokyonight"/>
+</p>
 </details>
 
-</td></tr>
-
-<tr><td>
+<br/>
 
 <details>
 <summary>🧬&nbsp;&nbsp;<b>Language Dominance & Ecosystem Breakdown</b></summary>
 <br/>
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCodezilla&theme=tokyonight&layout=donut&hide_border=true&langs_count=8"/></td>
-<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberCodezilla&theme=tokyonight"/></td>
-</tr>
-</table>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCodezilla&theme=tokyonight&layout=donut&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberCodezilla&theme=tokyonight"/>
+</p>
+<sub align="center">⚠️ Left card runs on a shared public instance — see step 1 above to self-host and remove the flakiness.</sub>
 </details>
 
-</td></tr>
-
-<tr><td>
+<br/>
 
 <details>
 <summary>🚀&nbsp;&nbsp;<b>Velocity & Repository Stats</b></summary>
 <br/>
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=CyberCodezilla&theme=tokyonight&show_icons=true&hide_border=true&hide=contribs&count_private=true"/></td>
-<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberCodezilla&theme=tokyonight"/></td>
-</tr>
-</table>
+<p align="center">
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberCodezilla&theme=tokyonight"/>
+</p>
 </details>
 
-</td></tr>
-
-<tr><td>
+<br/>
 
 <details>
 <summary>🔥&nbsp;&nbsp;<b>Streak & Consistency</b></summary>
 <br/>
-<p align="center"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberCodezilla&theme=tokyonight&hide_border=true"/></p>
+<p align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=CyberCodezilla&theme=tokyonight&hide_border=true"/>
+</p>
 </details>
 
-</td></tr>
-
-<tr><td>
+<br/>
 
 <details>
 <summary>🏆&nbsp;&nbsp;<b>Trophy Case — Highlighted Achievements</b></summary>
 <br/>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=CyberCodezilla&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/></p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CyberCodezilla&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+</p>
+<sub align="center">⚠️ Runs on a shared public instance — see step 4 above to self-host.</sub>
 </details>
 
-</td></tr>
-
-<tr><td>
+<br/>
 
 <details>
-<summary>📈&nbsp;&nbsp;<b>Contribution Activity Graph</b></summary>
+<summary>🐍&nbsp;&nbsp;<b>Contribution Snake — Animated & Self-Hosted</b></summary>
 <br/>
-<p align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberCodezilla&theme=tokyo-night&hide_border=true&area=true"/></p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberCodezilla/CyberCodezilla/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberCodezilla/CyberCodezilla/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" width="100%" src="https://raw.githubusercontent.com/CyberCodezilla/CyberCodezilla/output/github-contribution-grid-snake.svg"/>
+</picture>
+</p>
+<sub align="center">Appears automatically once the GitHub Action (snake.yml) runs for the first time.</sub>
 </details>
-
-</td></tr>
-
-</table>
 
 <br/>
 
