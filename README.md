@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/CyberCodezilla/CyberCodezilla/main/assets/hero-banner.svg" width="100%" alt="Sahil S. Rane"/>
+<img src="https://raw.githubusercontent.com/CyberCodezilla/CyberCodezilla/main/hero-banner.svg" width="100%" alt="Sahil S. Rane"/>
 </div>
 
 <div align="center">
