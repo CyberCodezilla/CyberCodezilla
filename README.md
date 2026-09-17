@@ -57,33 +57,102 @@ _______________________________________________________________________________
 
 <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=160&section=header&text=Live%20System%20Analytics&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Deep%20Metrics%20%7C%20Precision%20Insights%20%7C%20Real-Time%20Tracking&descAlignY=58&descSize=15" width="100%"/>
 
-## Live System Analytics & Deep Metrics
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Analyzing+commit+velocity...;Mapping+language+dominance...;Surfacing+peak+productivity+hours...;Building+something+worth+shipping." alt="Typing SVG"/>
 
-<!-- Tab 1: Productivity & Hourly Distribution -->
+<br/>
+
+<img src="https://img.shields.io/github/followers/CyberCodezilla?label=FOLLOWERS&style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26"/>
+<img src="https://komarev.com/ghpvc/?username=CyberCodezilla&label=PROFILE+VIEWS&style=for-the-badge&color=9ece6a&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/STATUS-Actively%20Shipping-e0af68?style=for-the-badge&labelColor=1a1b26"/>
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+
+<tr><td>
+
 <details open>
-  <summary><b>Productivity & Hourly Distribution</b></summary>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberCodezilla&theme=tokyonight&utcOffset=5.5" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberCodezilla&theme=tokyonight" width="48%" />
+<summary>⚡&nbsp;&nbsp;<b>Productivity & Hourly Distribution</b></summary>
+<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberCodezilla&theme=tokyonight&utcOffset=5.5"/></td>
+<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberCodezilla&theme=tokyonight"/></td>
+</tr>
+</table>
 </details>
 
-<!-- Tab 2: Language Dominance & Ecosystem Breakdown -->
+</td></tr>
+
+<tr><td>
+
 <details>
-  <summary><b>Language Dominance & Ecosystem Breakdown</b></summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCodezilla&theme=tokyonight&layout=donut&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberCodezilla&theme=tokyonight" width="48%" />
+<summary>🧬&nbsp;&nbsp;<b>Language Dominance & Ecosystem Breakdown</b></summary>
+<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCodezilla&theme=tokyonight&layout=donut&hide_border=true&langs_count=8"/></td>
+<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberCodezilla&theme=tokyonight"/></td>
+</tr>
+</table>
 </details>
 
-<!-- Tab 3: Velocity & Repository Stats -->
+</td></tr>
+
+<tr><td>
+
 <details>
-  <summary><b>Velocity & Repository Stats</b></summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberCodezilla&theme=tokyonight&show_icons=true&hide_border=true&hide=contribs" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberCodezilla&theme=tokyonight" width="48%" />
+<summary>🚀&nbsp;&nbsp;<b>Velocity & Repository Stats</b></summary>
+<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=CyberCodezilla&theme=tokyonight&show_icons=true&hide_border=true&hide=contribs&count_private=true"/></td>
+<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberCodezilla&theme=tokyonight"/></td>
+</tr>
+</table>
 </details>
 
+</td></tr>
+
+<tr><td>
+
+<details>
+<summary>🔥&nbsp;&nbsp;<b>Streak & Consistency</b></summary>
+<br/>
+<p align="center"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberCodezilla&theme=tokyonight&hide_border=true"/></p>
+</details>
+
+</td></tr>
+
+<tr><td>
+
+<details>
+<summary>🏆&nbsp;&nbsp;<b>Trophy Case — Highlighted Achievements</b></summary>
+<br/>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=CyberCodezilla&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/></p>
+</details>
+
+</td></tr>
+
+<tr><td>
+
+<details>
+<summary>📈&nbsp;&nbsp;<b>Contribution Activity Graph</b></summary>
+<br/>
+<p align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberCodezilla&theme=tokyo-night&hide_border=true&area=true"/></p>
+</details>
+
+</td></tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b26&height=90&section=footer" width="100%"/>
 </div>
 </p>
