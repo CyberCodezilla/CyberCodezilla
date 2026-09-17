@@ -116,9 +116,9 @@ Right now I'm exploring something outside the usual web stack: converting 2D eng
 <summary>🏆&nbsp;&nbsp;<b>Trophy Case — Highlighted Achievements</b></summary>
 <br/>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CyberCodezilla&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-trophies.vercel.app/?username=CyberCodezilla&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </p>
-<sub align="center">⚠️ Runs on a shared public instance — self-host it for guaranteed uptime (see notes below).</sub>
+<sub align="center">⚠️ Still a shared public instance (a different one than before) — self-host it for guaranteed uptime (see notes below).</sub>
 </details>
 
 <br/>
