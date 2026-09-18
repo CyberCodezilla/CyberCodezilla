@@ -76,10 +76,11 @@ Right now I'm exploring something outside the usual web stack: converting 2D eng
 <p><i>Deep metrics, precision insights, real-time tracking</i></p>
 </div>
 
-<h3 align="center">🗓️&nbsp;&nbsp;Contribution Grid</h3>
+<h3 align="center">📈&nbsp;&nbsp;Live Activity Trend</h3>
 <p align="center">
-<img width="100%" src="https://ghchart.rshah.org/7aa2f7/CyberCodezilla"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyberCodezilla&bg_color=1a1b26&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&area_color=7dcfff&hide_border=true&custom_title=Live%20Activity%20Trend"/>
 </p>
+<p align="center"><sub>⚠️ This one has a history of moving hosting domains — if it ever breaks, ask and I'll set up a self-hosted GitHub Action version instead.</sub></p>
 
 <br/>
 
