@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/CyberCodezilla/CyberCodezilla/main/hero-banner.svg" width="100%" alt="Sahil S. Rane"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=Sahil%20S.%20Rane&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20engineer%20in%20Mumbai%2C%20building%20with%20React%20and%20Next.js&descAlignY=62&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
@@ -21,6 +21,13 @@
 I'm an engineering student and developer working mostly in the React and Next.js ecosystem, with Tailwind CSS as my default styling toolkit. Most of my serious work happens late at night — the codebase gets my full attention once the day quiets down.
 
 Right now I'm exploring something outside the usual web stack: converting 2D engineering orthographic drawings — front, top, and side views — into accurate 3D models. It's early, but it's the project I'm most excited about.
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%8E%93-Engineering%20Student-7dcfff?style=for-the-badge&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F-React%20%26%20Next.js-7aa2f7?style=for-the-badge&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%99-Night%20Owl%20Coder-bb9af7?style=for-the-badge&labelColor=1a1b26"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%90-Exploring%202D%20to%203D%20CAD-e0af68?style=for-the-badge&labelColor=1a1b26"/>
+</p>
 
 <br/>
 
@@ -69,63 +76,32 @@ Right now I'm exploring something outside the usual web stack: converting 2D eng
 <p><i>Deep metrics, precision insights, real-time tracking</i></p>
 </div>
 
-<details open>
-<summary>⚡&nbsp;&nbsp;<b>Productivity & Hourly Distribution</b></summary>
-<br/>
+<h3 align="center">🗓️&nbsp;&nbsp;Contribution Grid</h3>
 <p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberCodezilla&theme=tokyonight&utcOffset=5.5"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberCodezilla&theme=tokyonight"/>
+<img width="100%" src="https://ghchart.rshah.org/7aa2f7/CyberCodezilla"/>
 </p>
-</details>
 
 <br/>
 
-<details>
-<summary>🧬&nbsp;&nbsp;<b>Language Dominance & Ecosystem Breakdown</b></summary>
-<br/>
+<h3 align="center">🧬&nbsp;&nbsp;Language Dominance & Ecosystem Breakdown</h3>
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCodezilla&theme=tokyonight&layout=donut&hide_border=true&langs_count=8"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyberCodezilla&theme=tokyonight"/>
 </p>
-<sub align="center">⚠️ Left card runs on a shared public instance — self-host it for guaranteed uptime (see notes below).</sub>
-</details>
+<p align="center"><sub>⚠️ Left card runs on a shared public instance — self-host it for guaranteed uptime.</sub></p>
 
 <br/>
 
-<details>
-<summary>🚀&nbsp;&nbsp;<b>Velocity & Repository Stats</b></summary>
-<br/>
+<h3 align="center">🚀&nbsp;&nbsp;Stats & Achievements</h3>
 <p align="center">
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberCodezilla&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberCodezilla&theme=tokyonight"/>
+<img width="49%" src="https://github-trophies.vercel.app/?username=CyberCodezilla&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8"/>
 </p>
-</details>
+<p align="center"><sub>⚠️ Trophy card runs on a shared public instance — self-host it for guaranteed uptime.</sub></p>
 
 <br/>
 
-<details>
-<summary>🔥&nbsp;&nbsp;<b>Streak & Consistency</b></summary>
-<br/>
-<p align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=CyberCodezilla&theme=tokyonight&hide_border=true"/>
-</p>
-</details>
-
-<br/>
-
-<details>
-<summary>🏆&nbsp;&nbsp;<b>Trophy Case — Highlighted Achievements</b></summary>
-<br/>
-<p align="center">
-<img src="https://github-trophies.vercel.app/?username=CyberCodezilla&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-</p>
-<sub align="center">⚠️ Still a shared public instance (a different one than before) — self-host it for guaranteed uptime (see notes below).</sub>
-</details>
-
-<br/>
-
-<details>
-<summary>🐍&nbsp;&nbsp;<b>Contribution Snake — Animated & Self-Hosted</b></summary>
-<br/>
+<h3 align="center">🐍&nbsp;&nbsp;Contribution Snake — Animated</h3>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberCodezilla/CyberCodezilla/output/github-contribution-grid-snake-dark.svg" />
@@ -133,8 +109,7 @@ Right now I'm exploring something outside the usual web stack: converting 2D eng
   <img alt="contribution snake animation" width="100%" src="https://raw.githubusercontent.com/CyberCodezilla/CyberCodezilla/output/github-contribution-grid-snake.svg"/>
 </picture>
 </p>
-<sub align="center">Appears once the GitHub Action (snake.yml) has run for the first time.</sub>
-</details>
+<p align="center"><sub>Appears once the GitHub Action (snake.yml) has run for the first time.</sub></p>
 
 <br/>
 
